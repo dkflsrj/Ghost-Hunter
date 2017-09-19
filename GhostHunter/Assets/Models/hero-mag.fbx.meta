@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 5af1207ce6face14984c7f46a2900f8c
+timeCreated: 1502270937
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm.L
+    100002: arm.R
+    100004: arm1.L
+    100006: arm1.R
+    100008: arm2.L
+    100010: arm2.R
+    100012: arm3.L
+    100014: arm3.R
+    100016: Body.001
+    100018: Camera
+    100020: Cube
+    100022: finge2.L
+    100024: finge2.R
+    100026: finger1.L
+    100028: finger1.R
+    100030: finger1/1.L
+    100032: finger1/1.R
+    100034: finger1/2.L
+    100036: finger1/2.L_end
+    100038: finger1/2.R
+    100040: finger1/2.R_end
+    100042: finger2/1.L
+    100044: finger2/1.R
+    100046: finger2/2.L
+    100048: finger2/2.R
+    100050: finger2/3.L
+    100052: finger2/3.L_end
+    100054: finger2/3.R
+    100056: finger2/3.R_end
+    100058: finger3.L
+    100060: finger3.R
+    100062: finger3/1.L
+    100064: finger3/1.R
+    100066: finger3/2.L
+    100068: finger3/2.R
+    100070: finger3/3.L
+    100072: finger3/3.L_end
+    100074: finger3/3.R
+    100076: finger3/3.R_end
+    100078: finger4.L
+    100080: finger4.R
+    100082: finger4/1.L
+    100084: finger4/1.R
+    100086: finger4/2.L
+    100088: finger4/2.R
+    100090: finger4/3.L
+    100092: finger4/3.L_end
+    100094: finger4/3.R
+    100096: finger4/3.R_end
+    100098: finger5.L
+    100100: finger5.R
+    100102: finger5/1.L
+    100104: finger5/1.R
+    100106: finger5/2.L
+    100108: finger5/2.R
+    100110: finger5/3.L
+    100112: finger5/3.L_end
+    100114: finger5/3.R
+    100116: finger5/3.R_end
+    100118: //RootNode
+    100120: Lamp
+    100122: "\u0421\u043A\u0435\u043B\u0435\u0442"
+    400000: arm.L
+    400002: arm.R
+    400004: arm1.L
+    400006: arm1.R
+    400008: arm2.L
+    400010: arm2.R
+    400012: arm3.L
+    400014: arm3.R
+    400016: Body.001
+    400018: Camera
+    400020: Cube
+    400022: finge2.L
+    400024: finge2.R
+    400026: finger1.L
+    400028: finger1.R
+    400030: finger1/1.L
+    400032: finger1/1.R
+    400034: finger1/2.L
+    400036: finger1/2.L_end
+    400038: finger1/2.R
+    400040: finger1/2.R_end
+    400042: finger2/1.L
+    400044: finger2/1.R
+    400046: finger2/2.L
+    400048: finger2/2.R
+    400050: finger2/3.L
+    400052: finger2/3.L_end
+    400054: finger2/3.R
+    400056: finger2/3.R_end
+    400058: finger3.L
+    400060: finger3.R
+    400062: finger3/1.L
+    400064: finger3/1.R
+    400066: finger3/2.L
+    400068: finger3/2.R
+    400070: finger3/3.L
+    400072: finger3/3.L_end
+    400074: finger3/3.R
+    400076: finger3/3.R_end
+    400078: finger4.L
+    400080: finger4.R
+    400082: finger4/1.L
+    400084: finger4/1.R
+    400086: finger4/2.L
+    400088: finger4/2.R
+    400090: finger4/3.L
+    400092: finger4/3.L_end
+    400094: finger4/3.R
+    400096: finger4/3.R_end
+    400098: finger5.L
+    400100: finger5.R
+    400102: finger5/1.L
+    400104: finger5/1.R
+    400106: finger5/2.L
+    400108: finger5/2.R
+    400110: finger5/3.L
+    400112: finger5/3.L_end
+    400114: finger5/3.R
+    400116: finger5/3.R_end
+    400118: //RootNode
+    400120: Lamp
+    400122: "\u0421\u043A\u0435\u043B\u0435\u0442"
+    4300000: Cube
+    7400000: "\u0421\u043A\u0435\u043B\u0435\u0442|move"
+    7400002: "\u0421\u043A\u0435\u043B\u0435\u0442|stop"
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 865e3cf8ccdb8484691e137c3db99940
+timeCreated: 1495471256
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: body
+    100004: Camera
+    100006: Circle
+    100008: Cube
+    100010: //RootNode
+    100012: Lamp
+    100014: "\u04111.L"
+    100016: "\u04111.R"
+    100018: "\u04112.L"
+    100020: "\u04112.L_end"
+    100022: "\u04112.R"
+    100024: "\u04112.R_end"
+    100026: "\u041F\u043B\u0435\u0447\u043E.\u041F"
+    100028: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.L"
+    100030: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.L.001"
+    100032: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.L.002"
+    100034: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.L.003"
+    100036: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.L.003_end"
+    100038: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.R"
+    100040: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.R.001"
+    100042: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.R.002"
+    100044: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.R.003"
+    100046: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.R.003_end"
+    100048: "\u0431\u043E\u043B\u044C\u0448\u043E\u0439.L"
+    100050: "\u0431\u043E\u043B\u044C\u0448\u043E\u0439.R"
+    100052: "\u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435.\u041B"
+    100054: "\u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435.\u041F"
+    100056: "\u043A\u0438\u0441\u0442\u044C. \u041B"
+    100058: "\u043A\u0438\u0441\u0442\u044C.\u041F"
+    100060: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .L"
+    100062: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .L.001"
+    100064: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .L.002"
+    100066: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .L.003"
+    100068: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .L.003_end"
+    100070: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .R"
+    100072: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .R.001"
+    100074: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .R.002"
+    100076: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .R.003"
+    100078: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .R.003_end"
+    100080: "\u043E\u0441\u043D\u043E\u0432\u0430"
+    100082: "\u043F\u043B\u0435\u0447\u043E.\u041B"
+    100084: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.L"
+    100086: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.L.001"
+    100088: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.L.002"
+    100090: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.L.003"
+    100092: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.L.003_end"
+    100094: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.R"
+    100096: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.R.001"
+    100098: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.R.002"
+    100100: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.R.003"
+    100102: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.R.003_end"
+    100104: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.L"
+    100106: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.L.001"
+    100108: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.L.002"
+    100110: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.L.003"
+    100112: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.L.003_end"
+    100114: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.R"
+    100116: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.R.001"
+    100118: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.R.002"
+    100120: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.R.003"
+    100122: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.R.003_end"
+    400000: Armature
+    400002: body
+    400004: Camera
+    400006: Circle
+    400008: Cube
+    400010: //RootNode
+    400012: Lamp
+    400014: "\u04111.L"
+    400016: "\u04111.R"
+    400018: "\u04112.L"
+    400020: "\u04112.L_end"
+    400022: "\u04112.R"
+    400024: "\u04112.R_end"
+    400026: "\u041F\u043B\u0435\u0447\u043E.\u041F"
+    400028: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.L"
+    400030: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.L.001"
+    400032: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.L.002"
+    400034: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.L.003"
+    400036: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.L.003_end"
+    400038: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.R"
+    400040: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.R.001"
+    400042: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.R.002"
+    400044: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.R.003"
+    400046: "\u0431\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.R.003_end"
+    400048: "\u0431\u043E\u043B\u044C\u0448\u043E\u0439.L"
+    400050: "\u0431\u043E\u043B\u044C\u0448\u043E\u0439.R"
+    400052: "\u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435.\u041B"
+    400054: "\u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435.\u041F"
+    400056: "\u043A\u0438\u0441\u0442\u044C. \u041B"
+    400058: "\u043A\u0438\u0441\u0442\u044C.\u041F"
+    400060: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .L"
+    400062: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .L.001"
+    400064: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .L.002"
+    400066: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .L.003"
+    400068: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .L.003_end"
+    400070: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .R"
+    400072: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .R.001"
+    400074: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .R.002"
+    400076: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .R.003"
+    400078: "\u043C\u0438\u0437\u0438\u043D\u0435\u0446 .R.003_end"
+    400080: "\u043E\u0441\u043D\u043E\u0432\u0430"
+    400082: "\u043F\u043B\u0435\u0447\u043E.\u041B"
+    400084: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.L"
+    400086: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.L.001"
+    400088: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.L.002"
+    400090: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.L.003"
+    400092: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.L.003_end"
+    400094: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.R"
+    400096: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.R.001"
+    400098: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.R.002"
+    400100: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.R.003"
+    400102: "\u0441\u0440\u0435\u0434\u043D\u0438\u0439.R.003_end"
+    400104: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.L"
+    400106: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.L.001"
+    400108: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.L.002"
+    400110: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.L.003"
+    400112: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.L.003_end"
+    400114: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.R"
+    400116: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.R.001"
+    400118: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.R.002"
+    400120: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.R.003"
+    400122: "\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439.R.003_end"
+    2300000: Circle
+    3300000: Circle
+    4300000: body
+    4300002: Cube
+    4300004: Circle
+    9500000: //RootNode
+    13700000: body
+    13700002: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
